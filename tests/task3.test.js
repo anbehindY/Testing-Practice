@@ -1,4 +1,4 @@
-const calculator = require('./task3.js');
+const calculator = require('../task3.js');
 const calculation = new calculator;
 
 describe ( 'add method', () => {
